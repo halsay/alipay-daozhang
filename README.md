@@ -1,11 +1,12 @@
-# °²×°ÒÀÀµ¿â pyaudio,pydub
-	'''python
-	pip install pyaudio
-	pip install pydub
-	'''
-# ÔËĞĞ½Å±¾
-Ö¸ÁîÈçÏÂ£¬ÆäÖĞnumber´ú±íµ½ÕË½ğ¶î£¨°¢À­²®Êı×Ö£¬Èç12345£©
-	'''python
-	python tts_test.py number
-	'''	
+# ä»¿æ”¯ä»˜å®åˆ°è´¦æé†’è¯­éŸ³å·¥å…·
+## å®‰è£…ä¾èµ–åº“ pyaudio,pydub
+```
+pip install pyaudio
+pip install pydub
+```
+## è¿è¡Œè„šæœ¬
+æŒ‡ä»¤å¦‚ä¸‹ï¼Œå…¶ä¸­numberä»£è¡¨åˆ°è´¦é‡‘é¢ï¼ˆé˜¿æ‹‰ä¼¯æ•°å­—ï¼Œå¦‚12345ï¼‰
+```
+python tts_test.py number
+```	
 	
